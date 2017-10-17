@@ -6,6 +6,7 @@ stuff { margin: 0 auto; max-width: 1200px; }
 h1 { font: 1.5rem Assistant, sans-serif; letter-spacing: -4px; margin-left: -10px }
 stuff { display: block;  }
 blockquote { font-weight: bold; margin: 0 }
+cite { float: right }
 part { padding: 1rem; }
 h1 { background: url(https://www.svgrepo.com/show/19533/circus-monkey.svg) bottom left no-repeat; }
 h1 { background-size: contain; padding-left: 74px; padding-bottom: 10px }
