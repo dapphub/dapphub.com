@@ -3,13 +3,12 @@ html { font: 24pt/1.3 sans-serif; text-size-adjust: none }
 body { margin: 1rem auto; }
 stuff { margin: 0 auto; max-width: 1200px; }
 :visited { color: #6660a0 }
-h1 { font: 1.5rem Assistant, sans-serif; letter-spacing: -4px; margin-left: -10px }
+h1 { font: 1.5rem Assistant, sans-serif; letter-spacing: -4px; }
 stuff { display: block;  }
 blockquote { font-weight: bold; margin: 0 }
 cite { float: right }
 part { padding: 1rem; }
-h1 { background: url(https://www.svgrepo.com/show/19533/circus-monkey.svg) bottom left no-repeat; }
-h1 { background-size: contain; padding-left: 74px; padding-bottom: 10px }
+h1 { background: url(logo.svg) center left no-repeat; background-size: 3.8rem; padding-left: 4.2rem; padding-bottom: .1rem }
 h3 { font-size: .8rem }
 section p { font-size: .8rem }
 intro { display: block; width: 95% }
