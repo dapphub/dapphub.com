@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Assistant:800");
+html { font: 24pt/1.3 sans-serif; text-size-adjust: none }
+body { margin: 1rem auto; }
+stuff { margin: 0 auto; max-width: 1200px; }
+:visited { color: #6660a0 }
+h1 { font: 1.5rem Assistant; letter-spacing: -4px; margin-left: -10px }
+stuff { display: block;  }
+part { padding: 1rem; }
+h1 { background: url(https://www.svgrepo.com/show/19533/circus-monkey.svg) bottom left no-repeat; background-size: contain; padding-left: 74px; padding-bottom: 10px }
+h3 { font-size: .8rem }
+section p { font-size: .8rem }
+intro { display: block; width: 95% }
+nav ul { list-style-type: none; padding: 0; float: right }
+h1, nav, ul, li { display: inline }
+nav { position: absolute; top: 0; right: 2rem }
+nav li { margin-left: 1rem }
+nav ul { margin: 0; }
+.two { overflow: hidden; }
+.etwo { border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; }
+h3 { margin-top: 0; }
+hr { height: 0; border-top: 1px solid #ccc; margin: 1.5rem 0 }
+nav a { font-size: .8rem; font-weight: bold; }
+nav a { text-decoration: none; border-bottom: .1rem solid currentcolor }
+ehtml { font: 32pt "Montserrat Subrayada"; letter-spacing: -3px; }
+ehtml { font: 32pt Ruda; letter-spacing: -3px; }
+section { float: left; width: 46%; }
+section:first-of-type { margin-right: 5% }
+part { display: block }
+p { clear: left }
+guys { display: flex; flex-wrap: wrap; margin-top: 2rem }
+guys { justify-content: space-between; justify-content: flex-start }
+guys > * { width: 17%; margin-right: 3%; }
+guys a { text-decoration: none; color: inherit }
+guys * { color: inherit }
+guys > a:hover { opacity: .6 }
+body { position: relative }
+h2 { text-ealign: center; margin: 0 }
+h2 { font-size: 1.25rem; text-transform: uppercase; ecolor: gray; font-size: 1rem; eletter-spacing: 1px }
+eh2 { display: none}
+face { background-size: cover; filter: egrayscale(100%) }
+face { padding-bottom: 130%; background-position: center }
+face { display: block }
+guy { margin-bottom: 1rem }
+name { font-size: .7rem; font-weight: bold }
+name { display: block; margin: .25rem 0 .1rem; }
+job { display: block }
+job { text-transform: uppercase; color: gray }
+job { font-size: .4rem; letter-spacing: 1px; font-weight: bold; }
+small { font-size: .7rem; color: gray; display: block; }
