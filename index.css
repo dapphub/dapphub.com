@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Assistant:800");
 html { font: 24pt/1.3 sans-serif; text-size-adjust: none }
-body { margin: 1rem auto; background: ivory }
+body { margin: 1rem auto; background: #eee }
 stuff { margin: 0 auto; max-width: 1200px; }
 a { color: #6660a0 }
 h1 { font: 1.5rem Assistant, sans-serif; letter-spacing: -4px; }
