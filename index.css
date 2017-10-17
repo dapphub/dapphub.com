@@ -12,7 +12,7 @@ h1 { background: url(logo.svg) center left no-repeat; background-size: 3.8rem; p
 h3 { font-size: .8rem }
 section p { font-size: .8rem }
 intro { display: block; width: 95% }
-blockquote * { background: white; color: black; }
+blockquote * { background: #6660a0; color: white; }
 blockquote * { padding: .1rem .5rem; -webkit-box-decoration-break: clone; box-decoration-break: clone }
 nav ul { list-style-type: none; padding: 0; float: right }
 h1, nav, ul, li { display: inline }
