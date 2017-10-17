@@ -30,7 +30,7 @@ p { clear: left }
 guys { display: flex; flex-wrap: wrap; margin-top: 2rem }
 guys { justify-content: space-between; justify-content: flex-start }
 guys > * { width: 17%; margin-right: 3%; }
-guys a { text-decoration: none; color: inherit }
+guys a { text-decoration: none; color: inherit; margin-bottom: 0.5rem; }
 guys * { color: inherit }
 guys > a:hover { opacity: .6 }
 body { position: relative }
