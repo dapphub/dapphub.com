@@ -14,6 +14,13 @@ h1 { background: url(logo.svg) center left no-repeat; background-size: 3.8rem; p
 h3 { font-size: .8rem }
 section p { font-size: .8rem }
 intro { display: block; width: 95% }
+part.quote { background: #6660a0; background-image: url(bg4.jpg); }
+part.quote { background-size: cover; background-position: center; }
+part.quote { color: white; margin-bottom: 1rem; padding: 2rem 1rem }
+part.quote stuff { overflow: hidden; box-sizing: border-box }
+@media (min-width: 1024px) {
+part.quote stuff { padding: 0 1rem; }
+}
 blockquote * { background: #6660a0; color: white; }
 blockquote * { padding: .1rem .5rem; -webkit-box-decoration-break: clone; box-decoration-break: clone }
 nav ul { list-style-type: none; padding: 0; }
