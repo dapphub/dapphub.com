@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Assistant:800");
 html { font: 12pt/1.3 sans-serif; text-size-adjust: none }
 @media (min-width: 1024px) { html { font-size: 24pt; } }
-body { margin: 1rem auto; }
+body { margin: 0 auto; }
+@media (min-width: 1024px) { body { margin-top: 1rem; } }
 stuff { margin: 0 auto; max-width: 1200px; }
 a { color: #6660a0 }
 h1 { font: 1.5rem Assistant, sans-serif; letter-spacing: -.13rem; }
@@ -35,9 +36,11 @@ p { clear: left }
 guys { display: flex; flex-wrap: wrap; margin-top: 2rem }
 guys { justify-content: space-between; justify-content: flex-start }
 guys > * { width: 30%; margin-right: 3%; }
-@media (min-width: 1024px) {
+@media (min-width: 500px) {
 section { float: left; width: 46%; }
 section:first-of-type { margin-right: 5% }
+}
+@media (min-width: 1024px) {
 guys > * { width: 17%; margin-right: 3%; }
 }
 guys a { text-decoration: none; color: inherit; margin-bottom: 1rem; }
@@ -54,3 +57,5 @@ job { display: block }
 job { text-transform: uppercase; color: gray; }
 job { font-size: .4rem; letter-spacing: .03rem; font-weight: bold; }
 small { font-size: .7rem; color: gray; display: block; }
+footer { font-size: .8rem }
+@media (min-width: 1024px) { footer { font-size: inherit } }
